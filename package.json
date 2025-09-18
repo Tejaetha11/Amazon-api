@@ -1,0 +1,11 @@
+{
+  "name": "amazon-api",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  },
+  "scripts": {
+    "start": "json-server --watch db.json --port 10000"
+  }
+}
