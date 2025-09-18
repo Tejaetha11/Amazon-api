@@ -1491,7 +1491,7 @@
   ],
   "banners": [
     {
-      "image": "http://localhost:8000/assets/clothing.jpg",
+      "image": "/assets/clothing.jpg",
       "altText": "T-SHIRTS Sale",
       "id": "0ad8"
     },
