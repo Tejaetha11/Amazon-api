@@ -1185,7 +1185,429 @@
         "Iconic Burberry design.",
         "Premium acetate material."
       ]
+},
+{
+  "id": "56",
+  "name": "Honda Activa 6G",
+  "brand": "Honda",
+  "price": 78000,
+  "mrp": 85000,
+  "discount": "8% off",
+  "rating": 4.6,
+  "reviews": 5421,
+  "image": "https://tse2.mm.bing.net/th/id/OIP.0LqV0pQv7-5B9RQJ6z9s3wHaE7?pid=Api&P=0&h=220",
+  "engine": "109.51cc, Single Cylinder",
+  "mileage": "50 kmpl",
+  "color": "Pearl Precious White",
+  "catageory": "two-wheeler",
+  "about": [
+    "Fuel-injected engine with enhanced efficiency.",
+    "LED headlamp and digital-analog meter.",
+    "Smooth ride with telescopic suspension.",
+    "India’s best-selling scooter."
+  ]
+},
+{
+  "id": "57",
+  "name": "Royal Enfield Classic 350",
+  "brand": "Royal Enfield",
+  "price": 198000,
+  "mrp": 210000,
+  "discount": "6% off",
+  "rating": 4.8,
+  "reviews": 3278,
+  "image": "https://tse3.mm.bing.net/th/id/OIP.TwY97PClUtFdU6TMWwReYgHaE8?pid=Api&P=0&h=220",
+  "engine": "349cc, Air-Oil Cooled",
+  "mileage": "35 kmpl",
+  "color": "Stealth Black",
+  "catageory": "two-wheeler",
+  "about": [
+    "Iconic retro-modern design.",
+    "Refined engine for smooth cruising.",
+    "Dual-channel ABS for safety.",
+    "Perfect for long rides and city commutes."
+  ]
+},
+{
+  "id": "58",
+  "name": "Bajaj Pulsar 150",
+  "brand": "Bajaj",
+  "price": 110000,
+  "mrp": 118000,
+  "discount": "7% off",
+  "rating": 4.5,
+  "reviews": 4210,
+  "image": "https://tse1.mm.bing.net/th/id/OIP.bPWwD2SjhXkFqkDUZf6KywHaE8?pid=Api&P=0&h=220",
+  "engine": "149.5cc, Single Cylinder",
+  "mileage": "47 kmpl",
+  "color": "Black Red",
+  "catageory": "two-wheeler",
+  "about": [
+    "Aggressive design with sporty stance.",
+    "Trusted performance bike in India.",
+    "Disc brakes for improved safety.",
+    "Great balance of power and mileage."
+  ]
+},
+{
+  "id": "59",
+  "name": "Yamaha R15 V4",
+  "brand": "Yamaha",
+  "price": 182000,
+  "mrp": 195000,
+  "discount": "7% off",
+  "rating": 4.7,
+  "reviews": 2890,
+  "image": "https://tse2.mm.bing.net/th/id/OIP.h5OnnT9HcPvzVZ2ZKOD3VQHaE8?pid=Api&P=0&h=220",
+  "engine": "155cc, Liquid Cooled",
+  "mileage": "40 kmpl",
+  "color": "Racing Blue",
+  "catageory": "two-wheeler",
+  "about": [
+    "Track-inspired sporty design.",
+    "VVA technology for performance.",
+    "Dual-channel ABS for safe braking.",
+    "One of the most popular sports bikes in India."
+  ]
+},
+{
+  "id": "60",
+  "name": "TVS Apache RTR 160",
+  "brand": "TVS",
+  "price": 118000,
+  "mrp": 126000,
+  "discount": "6% off",
+  "rating": 4.4,
+  "reviews": 3150,
+  "image": "https://tse1.mm.bing.net/th/id/OIP.i7A2wqO2dW9iOtS8hF1s2AHaEK?pid=Api&P=0&h=220",
+  "engine": "159.7cc, Oil Cooled",
+  "mileage": "45 kmpl",
+  "color": "Gloss Black",
+  "catageory": "two-wheeler",
+  "about": [
+    "Race-inspired performance.",
+    "Stylish design with LED DRLs.",
+    "Excellent handling in city and highways.",
+    "Feature-packed with digital cluster."
+  ]
+},
+{
+  "id": "61",
+  "name": "Suzuki Access 125",
+  "brand": "Suzuki",
+  "price": 89000,
+  "mrp": 95000,
+  "discount": "6% off",
+  "rating": 4.5,
+  "reviews": 2780,
+  "image": "https://tse2.mm.bing.net/th/id/OIP.9Lf6d_HmU07mf3q_gbbHaAHaE8?pid=Api&P=0&h=220",
+  "engine": "124cc, Single Cylinder",
+  "mileage": "52 kmpl",
+  "color": "Glossy Silver",
+  "catageory": "two-wheeler",
+  "about": [
+    "Smooth refined engine.",
+    "Spacious seat and storage.",
+    "Eco-assist illumination.",
+    "Popular family scooter in India."
+  ]
+},
+{
+  "id": "62",
+  "name": "Hero Splendor Plus",
+  "brand": "Hero",
+  "price": 75000,
+  "mrp": 82000,
+  "discount": "9% off",
+  "rating": 4.3,
+  "reviews": 6350,
+  "image": "https://tse1.mm.bing.net/th/id/OIP.1eRxxJpdkcTYjc-LlWVyVgHaE8?pid=Api&P=0&h=220",
+  "engine": "97.2cc, Single Cylinder",
+  "mileage": "60 kmpl",
+  "color": "Black with Silver",
+  "catageory": "two-wheeler",
+  "about": [
+    "India’s most trusted commuter bike.",
+    "Excellent mileage and durability.",
+    "Low maintenance cost.",
+    "Perfect for daily city rides."
+  ]
+},
+{
+  "id": "63",
+  "name": "KTM Duke 200",
+  "brand": "KTM",
+  "price": 192000,
+  "mrp": 205000,
+  "discount": "6% off",
+  "rating": 4.7,
+  "reviews": 1980,
+  "image": "https://tse4.mm.bing.net/th/id/OIP.JTXs6Pcx3Nv27llVojprxgHaE8?pid=Api&P=0&h=220",
+  "engine": "199.5cc, Liquid Cooled",
+  "mileage": "34 kmpl",
+  "color": "Orange Black",
+  "catageory": "two-wheeler",
+  "about": [
+    "Streetfighter naked sports bike.",
+    "Aggressive stance with powerful engine.",
+    "Lightweight frame for agility.",
+    "Best choice for young enthusiasts."
+  ]
+},
+{
+  "id": "64",
+  "name": "Honda Shine",
+  "brand": "Honda",
+  "price": 88000,
+  "mrp": 94000,
+  "discount": "7% off",
+  "rating": 4.4,
+  "reviews": 4780,
+  "image": "https://tse3.mm.bing.net/th/id/OIP.xL4dbjS_tlT0cVY7Q9fPyAHaE8?pid=Api&P=0&h=220",
+  "engine": "124cc, Air Cooled",
+  "mileage": "55 kmpl",
+  "color": "Geny Grey Metallic",
+  "catageory": "two-wheeler",
+  "about": [
+    "Refined commuter with smooth engine.",
+    "CBS braking for safety.",
+    "Stylish graphics and design.",
+    "Comfortable seat for daily use."
+  ]
+},
+{
+  "id": "65",
+  "name": "TVS Jupiter",
+  "brand": "TVS",
+  "price": 84000,
+  "mrp": 90000,
+  "discount": "6% off",
+  "rating": 4.5,
+  "reviews": 3690,
+  "image": "https://tse1.mm.bing.net/th/id/OIP.gRAqNmcjpj9Y3Kso0VvKjQHaE8?pid=Api&P=0&h=220",
+  "engine": "109.7cc, Single Cylinder",
+  "mileage": "50 kmpl",
+  "color": "Royal Wine",
+  "catageory": "two-wheeler",
+  "about": [
+    "Best-selling scooter from TVS.",
+    "Economical and stylish.",
+    "Large under-seat storage.",
+    "Ideal for families."
+  ]
+},
+{
+  "id": "66",
+  "name": "Yamaha FZ-S V3",
+  "brand": "Yamaha",
+  "price": 128000,
+  "mrp": 135000,
+  "discount": "5% off",
+  "rating": 4.6,
+  "reviews": 2980,
+  "image": "https://tse3.mm.bing.net/th/id/OIP.sWQ3YolQ5-6Te9bU7csuHQHaE7?pid=Api&P=0&h=220",
+  "engine": "149cc, Fuel Injected",
+  "mileage": "45 kmpl",
+  "color": "Matte Blue",
+  "catageory": "two-wheeler",
+  "about": [
+    "Muscular street bike design.",
+    "Blue Core engine for efficiency.",
+    "Comfortable upright seating.",
+    "Dual disc brakes for safety."
+  ]
+},
+{
+  "id": "67",
+  "name": "Bajaj Dominar 400",
+  "brand": "Bajaj",
+  "price": 225000,
+  "mrp": 235000,
+  "discount": "4% off",
+  "rating": 4.7,
+  "reviews": 1980,
+  "image": "https://tse2.mm.bing.net/th/id/OIP.0hQyfw8CNU6RjbXW8P5zRQHaE8?pid=Api&P=0&h=220",
+  "engine": "373cc, Liquid Cooled",
+  "mileage": "30 kmpl",
+  "color": "Aurora Green",
+  "catageory": "two-wheeler",
+  "about": [
+    "Sports tourer bike with powerful engine.",
+    "Comfortable for long rides.",
+    "Twin barrel exhaust design.",
+    "Modern features with ABS."
+  ]
+},
+{
+  "id": "68",
+  "name": "Hero HF Deluxe",
+  "brand": "Hero",
+  "price": 65000,
+  "mrp": 72000,
+  "discount": "10% off",
+  "rating": 4.2,
+  "reviews": 4820,
+  "image": "https://tse3.mm.bing.net/th/id/OIP.jmvK3V4AeH6R6wZq69Jz7QHaE8?pid=Api&P=0&h=220",
+  "engine": "97.2cc, Single Cylinder",
+  "mileage": "65 kmpl",
+  "color": "Techno Blue",
+  "catageory": "two-wheeler",
+  "about": [
+    "Most affordable commuter bike.",
+    "Excellent fuel efficiency.",
+    "Low maintenance costs.",
+    "Lightweight and easy to ride."
+  ]
+},
+{
+  "id": "69",
+  "name": "Suzuki Gixxer SF 250",
+  "brand": "Suzuki",
+  "price": 195000,
+  "mrp": 205000,
+  "discount": "5% off",
+  "rating": 4.6,
+  "reviews": 1540,
+  "image": "https://tse1.mm.bing.net/th/id/OIP.NmPzskpPKcAGhgrMQpt34AHaEK?pid=Api&P=0&h=220",
+  "engine": "249cc, Oil Cooled",
+  "mileage": "38 kmpl",
+  "color": "Metallic Triton Blue",
+  "catageory": "two-wheeler",
+  "about": [
+    "Fully faired premium bike.",
+    "Good balance of power and comfort.",
+    "Excellent highway performance.",
+    "Attractive Suzuki MotoGP livery."
+  ]
+},
+{
+  "id": "70",
+  "name": "Royal Enfield Meteor 350",
+  "brand": "Royal Enfield",
+  "price": 210000,
+  "mrp": 220000,
+  "discount": "5% off",
+  "rating": 4.7,
+  "reviews": 1760,
+  "image": "https://tse2.mm.bing.net/th/id/OIP.3aHMEtCLr4G0O2haq-5BBgHaE8?pid=Api&P=0&h=220",
+  "engine": "349cc, Air-Oil Cooled",
+  "mileage": "35 kmpl",
+  "color": "Stellar Blue",
+  "catageory": "two-wheeler",
+  "about": [
+    "Cruiser motorcycle with refined engine.",
+    "Comfortable riding ergonomics.",
+    "Trip navigation feature.",
+    "Excellent for long distance touring."
+  ]
+},
+{
+  "id": "71",
+  "name": "KTM RC 390",
+  "brand": "KTM",
+  "price": 320000,
+  "mrp": 335000,
+  "discount": "4% off",
+  "rating": 4.8,
+  "reviews": 1250,
+  "image": "https://tse3.mm.bing.net/th/id/OIP.M5R8FvS_PJQj0aJz9w6u2wHaEK?pid=Api&P=0&h=220",
+  "engine": "373cc, Liquid Cooled",
+  "mileage": "28 kmpl",
+  "color": "Orange White",
+  "catageory": "two-wheeler",
+  "about": [
+    "Track-focused supersport bike.",
+    "Powerful engine with quick acceleration.",
+    "Sharp handling and ABS equipped.",
+    "Aggressive looks with aerodynamic design."
+  ]
+},
+{
+  "id": "72",
+  "name": "Honda CB350 H'ness",
+  "brand": "Honda",
+  "price": 210000,
+  "mrp": 220000,
+  "discount": "5% off",
+  "rating": 4.6,
+  "reviews": 1390,
+  "image": "https://tse4.mm.bing.net/th/id/OIP.y7M9HyJZsRBnm93mr7Z8pgHaE7?pid=Api&P=0&h=220",
+  "engine": "348cc, Air Cooled",
+  "mileage": "36 kmpl",
+  "color": "Matte Green",
+  "catageory": "two-wheeler",
+  "about": [
+    "Retro-modern premium bike.",
+    "Excellent engine refinement.",
+    "Bluetooth-enabled digital console.",
+    "Comfortable cruising motorcycle."
+  ]
+},
+{
+  "id": "73",
+  "name": "TVS Ntorq 125",
+  "brand": "TVS",
+  "price": 93000,
+  "mrp": 99000,
+  "discount": "6% off",
+  "rating": 4.5,
+  "reviews": 2780,
+  "image": "https://tse2.mm.bing.net/th/id/OIP.svj7AqUHEAGmg6dNUFnCKwHaEK?pid=Api&P=0&h=220",
+  "engine": "124.8cc, Single Cylinder",
+  "mileage": "48 kmpl",
+  "color": "Racing Red",
+  "catageory": "two-wheeler",
+  "about": [
+    "Sporty scooter with Bluetooth connectivity.",
+    "Powerful engine for performance.",
+    "Large digital console with navigation.",
+    "Youth-focused stylish design."
+  ]
+},
+{
+  "id": "74",
+  "name": "Bajaj Platina 100",
+  "brand": "Bajaj",
+  "price": 67000,
+  "mrp": 72000,
+  "discount": "7% off",
+  "rating": 4.3,
+  "reviews": 4150,
+  "image": "https://tse1.mm.bing.net/th/id/OIP.9B2ocVYgnlRhqUb8w3l80QHaEK?pid=Api&P=0&h=220",
+  "engine": "102cc, Single Cylinder",
+  "mileage": "70 kmpl",
+  "color": "Black with Silver",
+  "catageory": "two-wheeler",
+  "about": [
+    "One of the most fuel-efficient bikes.",
+    "Simple and reliable commuter.",
+    "Soft seat for extra comfort.",
+    "Best for daily rural and city rides."
+  ]
+},
+{
+  "id": "75",
+  "name": "Yamaha MT-15 V2",
+  "brand": "Yamaha",
+  "price": 165000,
+  "mrp": 175000,
+  "discount": "6% off",
+  "rating": 4.7,
+  "reviews": 2140,
+  "image": "https://tse2.mm.bing.net/th/id/OIP.qf0ydQAzPQjBYY3pMo6v8QHaEK?pid=Api&P=0&h=220",
+  "engine": "155cc, Liquid Cooled",
+  "mileage": "43 kmpl",
+  "color": "Matte Grey",
+  "catageory": "two-wheeler",
+  "about": [
+    "Naked streetfighter design.",
+    "VVA engine technology.",
+    "Lightweight with sporty handling.",
+    "Popular among young riders."
+  ]
 }
+
+
 ],
 
   "wishlist": [],
