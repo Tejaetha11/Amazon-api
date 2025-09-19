@@ -14,11 +14,12 @@
       "earPlacement": "In Ear",
       "formFactor": "Neckband",
       "noiseControl": "Passive Noise Cancellation",
+      "catageory": "electronics",
       "about": [
-        "60HRS Battery with long playback.",
-        "Fast charging for convenience.",
-        "IPX7 water resistance for durability.",
-        "Dual pairing and low latency feature."
+      "60HRS Battery with long playback.",
+      "Fast charging for convenience.",
+      "IPX7 water resistance for durability.",
+      "Dual pairing and low latency feature."
       ]
     },
     {
@@ -35,11 +36,12 @@
       "earPlacement": "In Ear",
       "formFactor": "TWS",
       "noiseControl": "Active Noise Cancellation",
+      "catageory": "electronics",
       "about": [
-        "45HRS Battery with charging case.",
-        "Metallic finish for stylish look.",
-        "Low latency for smooth audio.",
-        "Bluetooth v5.3 for stability."
+      "45HRS Battery with charging case.",
+      "Metallic finish for stylish look.",
+      "Low latency for smooth audio.",
+      "Bluetooth v5.3 for stability."
       ]
     },
     {
@@ -56,11 +58,12 @@
       "earPlacement": "In Ear",
       "formFactor": "TWS",
       "noiseControl": "Active Noise Cancellation",
+      "catageory": "electronics",
       "about": [
-        "IWP Technology for quick pairing.",
-        "IPX4 sweat and splash resistance.",
-        "10mm drivers for clear sound.",
-        "Fast charging supported."
+      "IWP Technology for quick pairing.",
+      "IPX4 sweat and splash resistance.",
+      "10mm drivers for clear sound.",
+      "Fast charging supported."
       ]
     },
     {
@@ -77,11 +80,12 @@
       "earPlacement": "In Ear",
       "formFactor": "TWS",
       "noiseControl": "Active Noise Cancellation",
+      "catageory": "electronics",
       "about": [
-        "42HRS Battery with ASAP charge.",
-        "IPX4 certification for water resistance.",
-        "High fidelity audio drivers.",
-        "Bluetooth v5.0 connectivity."
+      "42HRS Battery with ASAP charge.",
+      "IPX4 certification for water resistance.",
+      "High fidelity audio drivers.",
+      "Bluetooth v5.0 connectivity."
       ]
     },
     {
@@ -98,11 +102,12 @@
       "earPlacement": "In Ear",
       "formFactor": "TWS",
       "noiseControl": "Active Noise Cancellation",
+      "catageory": "electronics",
       "about": [
-        "42HRS battery with quick charge.",
-        "ASAP charging enabled.",
-        "IPX4 water resistance rating.",
-        "Bluetooth v5.0 for connectivity."
+      "42HRS battery with quick charge.",
+      "ASAP charging enabled.",
+      "IPX4 water resistance rating.",
+      "Bluetooth v5.0 for connectivity."
       ]
     },
     {
@@ -119,11 +124,12 @@
       "earPlacement": "In Ear",
       "formFactor": "TWS",
       "noiseControl": "Active Noise Cancellation",
+      "catageory": "electronics",
       "about": [
-        "42HRS Battery with ASAP Charge.",
-        "IPX4 rated for water and sweat resistance.",
-        "High-quality 10mm drivers.",
-        "Bluetooth v5.0 for stable connection."
+      "42HRS Battery with ASAP Charge.",
+      "IPX4 rated for water and sweat resistance.",
+      "High-quality 10mm drivers.",
+      "Bluetooth v5.0 for stable connection."
       ]
     },
     {
@@ -140,11 +146,12 @@
       "earPlacement": "In Ear",
       "formFactor": "TWS",
       "noiseControl": "Active Noise Cancellation",
+      "catageory": "electronics",
       "about": [
-        "42HRS battery with ASAP charging.",
-        "IPX4 Water resistance.",
-        "Premium sound with 10mm drivers.",
-        "Bluetooth v5.0 latest version."
+      "42HRS battery with ASAP charging.",
+      "IPX4 Water resistance.",
+      "Premium sound with 10mm drivers.",
+      "Bluetooth v5.0 latest version."
       ]
     },
     {
@@ -161,11 +168,12 @@
       "earPlacement": "In Ear",
       "formFactor": "TWS",
       "noiseControl": "Active Noise Cancellation (ANC)",
+      "catageory": "electronics",
       "about": [
-        "Active Noise Cancellation for immersive sound.",
-        "42HRS battery with expedited ASAP charge.",
-        "IPX4 sweat and water resistant.",
-        "Bluetooth v5.0 with low latency."
+      "Active Noise Cancellation for immersive sound.",
+      "42HRS battery with expedited ASAP charge.",
+      "IPX4 sweat and water resistant.",
+      "Bluetooth v5.0 with low latency."
       ]
     },
     {
@@ -182,11 +190,12 @@
       "earPlacement": "In Ear",
       "formFactor": "TWS",
       "noiseControl": "Active Noise Cancellation",
+      "catageory": "electronics",
       "about": [
-        "42HRS battery and ASAP charge.",
-        "IPX4 certification for durability.",
-        "Bluetooth V5.0 connectivity.",
-        "10mm balanced drivers for sound."
+      "42HRS battery and ASAP charge.",
+      "IPX4 certification for durability.",
+      "Bluetooth V5.0 connectivity.",
+      "10mm balanced drivers for sound."
       ]
     },
     {
@@ -203,11 +212,12 @@
       "earPlacement": "In Ear",
       "formFactor": "TWS",
       "noiseControl": "Active Noise Cancellation",
+      "catageory": "electronics",
       "about": [
-        "IWP Technology for fast pairing.",
-        "IPX4 water resistance rating.",
-        "Fast charging support.",
-        "High fidelity audio drivers."
+      "IWP Technology for fast pairing.",
+      "IPX4 water resistance rating.",
+      "Fast charging support.",
+      "High fidelity audio drivers."
       ]
     },
     {
@@ -224,10 +234,11 @@
       "earPlacement": "On Ear",
       "formFactor": "Foldable",
       "noiseControl": "Passive Noise Cancellation",
+      "catageory": "electronics",
       "about": [
-        "Lightweight foldable design.",
-        "15 hours playback with ASAP charge.",
-        "Clear voice mic support."
+      "Lightweight foldable design.",
+      "15 hours playback with ASAP charge.",
+      "Clear voice mic support."
       ]
     },
     {
@@ -244,10 +255,11 @@
       "earPlacement": "On Ear",
       "formFactor": "Foldable",
       "noiseControl": "Passive Noise Cancellation",
+      "catageory": "electronics",
       "about": [
-        "20 hours playback time.",
-        "Fast ASAP charge.",
-        "Foldable design for portability."
+      "20 hours playback time.",
+      "Fast ASAP charge.",
+      "Foldable design for portability."
       ]
     },
     {
@@ -264,10 +276,11 @@
       "earPlacement": "On Ear",
       "formFactor": "Foldable",
       "noiseControl": "Passive Noise Cancellation",
+      "catageory": "electronics",
       "about": [
-        "ASAP charge for rapid power.",
-        "25 hours battery life.",
-        "Lightweight and foldable."
+      "ASAP charge for rapid power.",
+      "25 hours battery life.",
+      "Lightweight and foldable."
       ]
     },
     {
@@ -284,10 +297,11 @@
       "earPlacement": "On Ear",
       "formFactor": "Foldable",
       "noiseControl": "Passive Noise Cancellation",
+      "catageory": "electronics",
       "about": [
-        "25 hours playtime with ASAP charge.",
-        "Lightweight ergonomic design.",
-        "Crystal clear audio and mic."
+      "25 hours playtime with ASAP charge.",
+      "Lightweight ergonomic design.",
+      "Crystal clear audio and mic."
       ]
     },
     {
@@ -304,10 +318,11 @@
       "earPlacement": "On Ear",
       "formFactor": "Foldable",
       "noiseControl": "Passive Noise Cancellation",
+      "catageory": "electronics",
       "about": [
-        "30 hours max playback.",
-        "Rapid ASAP charging support.",
-        "Foldable and mobile friendly."
+      "30 hours max playback.",
+      "Rapid ASAP charging support.",
+      "Foldable and mobile friendly."
       ]
     },
     {
@@ -324,12 +339,13 @@
       "earPlacement": "Over Ear",
       "formFactor": "Over Ear",
       "noiseControl": "Environmental Noise Cancellation",
+      "catageory": "electronics",
       "about": [
-        "70H playback on a single charge.",
-        "40mm bass drivers for rich sound.",
-        "Zen™ ENC mic for clear calls.",
-        "Type-C fast charging supported.",
-        "4 EQ modes to customize audio."
+      "70H playback on a single charge.",
+      "40mm bass drivers for rich sound.",
+      "Zen™ ENC mic for clear calls.",
+      "Type-C fast charging supported.",
+      "4 EQ modes to customize audio."
       ]
     },
     {
@@ -346,11 +362,12 @@
       "earPlacement": "In Ear",
       "formFactor": "TWS",
       "noiseControl": "Environmental Noise Cancellation",
+      "catageory": "electronics",
       "about": [
-        "50H playtime with app support.",
-        "45ms Low latency for gaming.",
-        "Breathing LEDs for style.",
-        "Touch control enabled."
+      "50H playtime with app support.",
+      "45ms Low latency for gaming.",
+      "Breathing LEDs for style.",
+      "Touch control enabled."
       ]
     },
     {
@@ -367,11 +384,12 @@
       "earPlacement": "In Ear",
       "formFactor": "TWS",
       "noiseControl": "Environmental Noise Cancellation",
+      "catageory": "electronics",
       "about": [
-        "100H playtime with Type-C fast charging.",
-        "Quad mic ENC for clear calls.",
-        "Low latency gaming mode.",
-        "13mm bass drivers for punchy sound."
+      "100H playtime with Type-C fast charging.",
+      "Quad mic ENC for clear calls.",
+      "Low latency gaming mode.",
+      "13mm bass drivers for punchy sound."
       ]
     },
     {
@@ -388,11 +406,12 @@
       "earPlacement": "Over Ear",
       "formFactor": "Over Ear",
       "noiseControl": "Active Noise Cancellation",
+      "catageory": "electronics",
       "about": [
-        "Active Noise Cancellation up to 30dB.",
-        "Massive 60H playtime with fast charging.",
-        "Comfortable over-ear design with AUX support.",
-        "Crystal clear audio with immersive bass."
+      "Active Noise Cancellation up to 30dB.",
+      "Massive 60H playtime with fast charging.",
+      "Comfortable over-ear design with AUX support.",
+      "Crystal clear audio with immersive bass."
       ]
     },
     {
@@ -409,11 +428,12 @@
       "earPlacement": "In Ear",
       "formFactor": "TWS",
       "noiseControl": "Environmental Noise Cancellation",
+      "catageory": "electronics",
       "about": [
-        "45ms ultra low latency mode for gamers.",
-        "40H battery backup with fast charge.",
-        "Quad mic ENC for noise-free calling.",
-        "Breathing LED lights for gaming vibe."
+      "45ms ultra low latency mode for gamers.",
+      "40H battery backup with fast charge.",
+      "Quad mic ENC for noise-free calling.",
+      "Breathing LED lights for gaming vibe."
       ]
     },
     {
@@ -430,11 +450,12 @@
       "earPlacement": "In Ear",
       "formFactor": "TWS",
       "noiseControl": "Environmental Noise Cancellation",
+      "catageory": "electronics",
       "about": [
-        "48H long playtime with fast charging.",
-        "Quad mic ENC for clear calls.",
-        "45ms ultra-low latency for gaming.",
-        "13mm drivers deliver deep bass."
+      "48H long playtime with fast charging.",
+      "Quad mic ENC for clear calls.",
+      "45ms ultra-low latency for gaming.",
+      "13mm drivers deliver deep bass."
       ]
     },
     {
@@ -451,11 +472,12 @@
       "earPlacement": "In Ear",
       "formFactor": "TWS",
       "noiseControl": "Environmental Noise Cancellation",
+      "catageory": "electronics",
       "about": [
-        "48H playtime with Type-C charging.",
-        "40ms low latency gaming mode.",
-        "IPX5 sweat and splash resistance.",
-        "Quad mic ENC for noise-free calling."
+      "48H playtime with Type-C charging.",
+      "40ms low latency gaming mode.",
+      "IPX5 sweat and splash resistance.",
+      "Quad mic ENC for noise-free calling."
       ]
     },
     {
@@ -472,11 +494,12 @@
       "earPlacement": "In Ear",
       "formFactor": "Neckband",
       "noiseControl": "Active Noise Cancellation",
+      "catageory": "electronics",
       "about": [
-        "Active noise cancellation for immersive audio.",
-        "40H battery backup with Type-C fast charging.",
-        "13mm bass drivers deliver powerful sound.",
-        "Lightweight and comfortable neckband design."
+      "Active noise cancellation for immersive audio.",
+      "40H battery backup with Type-C fast charging.",
+      "13mm bass drivers deliver powerful sound.",
+      "Lightweight and comfortable neckband design."
       ]
     },
     {
@@ -493,11 +516,12 @@
       "earPlacement": "N/A",
       "formFactor": "Bluetooth Speaker",
       "noiseControl": "Passive Noise Reduction",
+      "catageory": "electronics",
       "about": [
-        "50W powerful HD stereo sound.",
-        "Up to 24H continuous playtime.",
-        "TWS pairing for dual speaker mode.",
-        "IPX7 waterproof — perfect for outdoors."
+      "50W powerful HD stereo sound.",
+      "Up to 24H continuous playtime.",
+      "TWS pairing for dual speaker mode.",
+      "IPX7 waterproof — perfect for outdoors."
       ]
     },
     {
@@ -514,11 +538,12 @@
       "earPlacement": "In Ear",
       "formFactor": "Neckband",
       "noiseControl": "Passive Noise Cancellation",
+      "catageory": "electronics",
       "about": [
-        "40H playtime with ultra-fast charging.",
-        "Dual device pairing support.",
-        "14.2mm drivers with deep bass.",
-        "Magnetic earbuds for tangle-free use."
+      "40H playtime with ultra-fast charging.",
+      "Dual device pairing support.",
+      "14.2mm drivers with deep bass.",
+      "Magnetic earbuds for tangle-free use."
       ]
     },
     {
@@ -535,11 +560,12 @@
       "earPlacement": "In Ear",
       "formFactor": "TWS",
       "noiseControl": "Active Noise Cancellation",
+      "catageory": "electronics",
       "about": [
-        "Active noise cancellation up to 25dB.",
-        "40H playtime with fast charging.",
-        "13mm driver for clear bass-heavy sound.",
-        "Quad mic ENC ensures crisp call quality."
+      "Active noise cancellation up to 25dB.",
+      "40H playtime with fast charging.",
+      "13mm driver for clear bass-heavy sound.",
+      "Quad mic ENC ensures crisp call quality."
       ]
     },
     {
@@ -556,11 +582,12 @@
       "earPlacement": "In Ear",
       "formFactor": "TWS",
       "noiseControl": "Environmental Noise Cancellation",
+      "catageory": "electronics",
       "about": [
-        "Massive 120H playtime with case.",
-        "Quad mic ENC for superior calling.",
-        "Low latency mode for gaming.",
-        "13mm drivers deliver extra bass."
+      "Massive 120H playtime with case.",
+      "Quad mic ENC for superior calling.",
+      "Low latency mode for gaming.",
+      "13mm drivers deliver extra bass."
       ]
     },
     {
@@ -577,11 +604,12 @@
       "earPlacement": "In Ear",
       "formFactor": "TWS",
       "noiseControl": "Active Noise Cancellation",
+      "catageory": "electronics",
       "about": [
-        "Active noise cancellation up to 30dB.",
-        "Up to 80H playtime with charging case.",
-        "Fast charging — 10min = 200min playtime.",
-        "13mm drivers with powerful sound."
+      "Active noise cancellation up to 30dB.",
+      "Up to 80H playtime with charging case.",
+      "Fast charging — 10min = 200min playtime.",
+      "13mm drivers with powerful sound."
       ]
     },
     {
@@ -598,11 +626,12 @@
       "earPlacement": "In Ear",
       "formFactor": "Neckband",
       "noiseControl": "Passive Noise Cancellation",
+      "catageory": "electronics",
       "about": [
-        "Up to 60H of battery life.",
-        "Dual device pairing with seamless switch.",
-        "Fast charging support with Type-C.",
-        "IPX5 sweat resistance for workouts."
+      "Up to 60H of battery life.",
+      "Dual device pairing with seamless switch.",
+      "Fast charging support with Type-C.",
+      "IPX5 sweat resistance for workouts."
       ]
     },
     {
@@ -619,11 +648,12 @@
       "earPlacement": "In Ear",
       "formFactor": "TWS",
       "noiseControl": "Active Noise Cancellation",
+      "catageory": "electronics",
       "about": [
-        "Active Noise Cancellation up to 30dB.",
-        "Up to 80H total playtime with charging case.",
-        "Quad mic ENC for clear calls.",
-        "Low latency gaming mode and fast Type-C charging."
+      "Active Noise Cancellation up to 30dB.",
+      "Up to 80H total playtime with charging case.",
+      "Quad mic ENC for clear calls.",
+      "Low latency gaming mode and fast Type-C charging."
       ]
     },
     {
@@ -640,11 +670,12 @@
       "earPlacement": "In Ear",
       "formFactor": "TWS",
       "noiseControl": "Passive Noise Cancellation",
+      "catageory": "electronics",
       "about": [
-        "Up to 12H total playback with case.",
-        "Touch controls for calls & music.",
-        "Voice assistant support.",
-        "IPX4 splash proof design."
+      "Up to 12H total playback with case.",
+      "Touch controls for calls & music.",
+      "Voice assistant support.",
+      "IPX4 splash proof design."
       ]
     },
     {
@@ -661,11 +692,12 @@
       "earPlacement": "In Ear",
       "formFactor": "TWS",
       "noiseControl": "Environmental Noise Cancellation",
+      "catageory": "electronics",
       "about": [
-        "Low latency gaming mode.",
-        "28H playtime with fast charging.",
-        "LED lights for gaming style.",
-        "ENC for noise-free calls."
+      "Low latency gaming mode.",
+      "28H playtime with fast charging.",
+      "LED lights for gaming style.",
+      "ENC for noise-free calls."
       ]
     },
     {
@@ -682,11 +714,12 @@
       "earPlacement": "Over Ear",
       "formFactor": "Over Ear",
       "noiseControl": "Passive Noise Cancellation",
+      "catageory": "electronics",
       "about": [
-        "Deep bass with 40mm drivers.",
-        "Soft padded earcups for comfort.",
-        "Adjustable headband.",
-        "Compatible with 3.5mm devices."
+      "Deep bass with 40mm drivers.",
+      "Soft padded earcups for comfort.",
+      "Adjustable headband.",
+      "Compatible with 3.5mm devices."
       ]
     },
     {
@@ -703,11 +736,12 @@
       "earPlacement": "In Ear",
       "formFactor": "Neckband",
       "noiseControl": "Passive Noise Cancellation",
+      "catageory": "electronics",
       "about": [
-        "Up to 17H playback time.",
-        "Dual device pairing feature.",
-        "Voice assistant support.",
-        "Magnetic earbuds with snug fit."
+      "Up to 17H playback time.",
+      "Dual device pairing feature.",
+      "Voice assistant support.",
+      "Magnetic earbuds with snug fit."
       ]
     },
     {
@@ -724,11 +758,12 @@
       "earPlacement": "Over Ear",
       "formFactor": "Over Ear",
       "noiseControl": "Passive Noise Cancellation",
+      "catageory": "electronics",
       "about": [
-        "30H playback on a single charge.",
-        "Deep bass with immersive sound.",
-        "Voice assistant support.",
-        "Foldable design with soft cushions."
+      "30H playback on a single charge.",
+      "Deep bass with immersive sound.",
+      "Voice assistant support.",
+      "Foldable design with soft cushions."
       ]
     },
     {
@@ -740,11 +775,11 @@
       "discount": "50% off",
       "rating": 4.5,
       "reviews": 8562,
-      "image": "/assets/lenskart-air-classic.jpg",
+      "image": "https://m.media-amazon.com/images/I/41YAVcwTU4L._SX342_.jpg",
       "frameMaterial": "TR90",
       "lensType": "Blue Light Blocking",
       "color": "Black Transparent",
-      "category": "eyewear",
+      "catageory": "eyewear",
       "about": [
         "Protects eyes from harmful blue light.",
         "Ultra lightweight TR90 frame.",
@@ -761,11 +796,11 @@
       "discount": "16% off",
       "rating": 4.7,
       "reviews": 12983,
-      "image": "/assets/rayban-wayfarer.jpg",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.qDPVS31D_42J8OSuykiqPwHaEK?pid=Api&P=0&h=220",
       "frameMaterial": "Acetate",
       "lensType": "UV Protection",
       "color": "Black with Green Classic Lens",
-      "category": "eyewear",
+      "catageory": "eyewear",
       "about": [
         "100% UV protection.",
         "Iconic Wayfarer design.",
@@ -782,11 +817,11 @@
       "discount": "36% off",
       "rating": 4.3,
       "reviews": 4521,
-      "image": "/assets/fastrack-aviator.jpg",
+      "image": "https://d3995ea24pmi7m.cloudfront.net/ft-media/catalog/product/M/2/M258GR6V_1_lar.jpg",
       "frameMaterial": "Metal",
       "lensType": "UV400 Protection",
       "color": "Silver Frame with Blue Gradient Lens",
-      "category": "eyewear",
+      "catageory": "eyewear",
       "about": [
         "Stylish aviator frame.",
         "UV400 protection.",
@@ -803,11 +838,11 @@
       "discount": "43% off",
       "rating": 4.4,
       "reviews": 2387,
-      "image": "/assets/vincent-round.jpg",
+      "image": "https://www.jiomart.com/images/product/500x630/rv122iwlgd/vincent-chase-eyewear-polarized-round-full-rim-grey-sunglasses-men-and-women-large-vc-s13137-product-images-rv122iwlgd-0-202304101513.jpg",
       "frameMaterial": "Metal",
       "lensType": "Polarized",
       "color": "Gunmetal with Brown Lens",
-      "category": "eyewear",
+      "catageory": "eyewear",
       "about": [
         "Eliminates glare with polarized lenses.",
         "Retro round style.",
@@ -824,11 +859,11 @@
       "discount": "25% off",
       "rating": 4.8,
       "reviews": 1654,
-      "image": "/assets/oakley-radar.jpg",
+      "image": "https://images.stockx.com/images/Oakley-Radar-EV-Path-Sunglasses-Polished-White-Prizm-Ruby.jpg?fit=fill&bg=FFFFFF&w=480&h=320&fm=webp&auto=compress&dpr=2&trim=color&updated_at=1622069664&q=60",
       "frameMaterial": "O-Matter",
       "lensType": "Prizm UV Protection",
       "color": "Matte Black with Prizm Road Lens",
-      "category": "eyewear",
+      "catageory": "eyewear",
       "about": [
         "Enhanced color and contrast with Prizm lenses.",
         "Sports performance design.",
@@ -845,11 +880,11 @@
       "discount": "42% off",
       "rating": 4.3,
       "reviews": 1910,
-      "image": "/assets/titan-square.jpg",
+      "image": "https://assets.myntassets.com/h_200,w_200,c_fill,g_auto/h_1440,q_100,w_1080/v1/assets/images/19031058/2022/7/8/53d4b038-fde6-4d60-8fe5-39cd1812a7ef1657295987134TitanUnisexBlueFullRimSquareFrames1.jpg",
       "frameMaterial": "Stainless Steel",
       "lensType": "Prescription Ready",
       "color": "Matte Black",
-      "category": "eyewear",
+      "catageory": "eyewear",
       "about": [
         "Premium stainless steel frame.",
         "Ideal for prescription lenses.",
@@ -866,11 +901,11 @@
       "discount": "48% off",
       "rating": 4.2,
       "reviews": 4234,
-      "image": "/assets/lenskart-blu-round.jpg",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.K1njSU_R-PBv3-i4JLBWLgAAAA?pid=Api&P=0&h=220",
       "frameMaterial": "TR90",
       "lensType": "Blue Light Blocking",
       "color": "Transparent Grey",
-      "category": "eyewear",
+      "catageory": "eyewear",
       "about": [
         "Blue cut lenses for screen use.",
         "Round frame design.",
@@ -887,11 +922,11 @@
       "discount": "31% off",
       "rating": 4.6,
       "reviews": 2756,
-      "image": "/assets/carrera-rect.jpg",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.UBHhXKX_h4D8sEyrk8QsHwHaIl?pid=Api&P=0&h=220",
       "frameMaterial": "Acetate",
       "lensType": "UV Protection",
       "color": "Havana Brown",
-      "category": "eyewear",
+      "catageory": "eyewear",
       "about": [
         "Bold rectangular frame.",
         "UV-protected lenses.",
@@ -908,11 +943,11 @@
       "discount": "13% off",
       "rating": 4.7,
       "reviews": 8921,
-      "image": "/assets/rayban-round-metal.jpg",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.FtBUw6j9X5d8suqXs2HuJAHaCv?pid=Api&P=0&h=220",
       "frameMaterial": "Metal",
       "lensType": "UV Protection",
       "color": "Gold Frame with Green Lens",
-      "category": "eyewear",
+      "catageory": "eyewear",
       "about": [
         "Classic retro round design.",
         "UV protection lenses.",
@@ -929,11 +964,11 @@
       "discount": "51% off",
       "rating": 4.1,
       "reviews": 3054,
-      "image": "/assets/lenskart-rimless.jpg",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.w0DjESN1F2pnSJUTAgYmLwHaDj?pid=Api&P=0&h=220",
       "frameMaterial": "Titanium",
       "lensType": "Prescription Ready",
       "color": "Silver",
-      "category": "eyewear",
+      "catageory": "eyewear",
       "about": [
         "Ultra-light titanium frame.",
         "Rimless square design.",
@@ -950,11 +985,11 @@
       "discount": "19% off",
       "rating": 4.8,
       "reviews": 998,
-      "image": "/assets/persol-folding.jpg",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.t_bM1q6Mm-pRikcGKGRLDgHaDt?pid=Api&P=0&h=220",
       "frameMaterial": "Acetate",
       "lensType": "Polarized",
       "color": "Havana with Brown Polarized Lens",
-      "category": "eyewear",
+      "catageory": "eyewear",
       "about": [
         "Iconic foldable design.",
         "Handcrafted acetate frame.",
@@ -971,11 +1006,11 @@
       "discount": "29% off",
       "rating": 4.4,
       "reviews": 1420,
-      "image": "/assets/police-square.jpg",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.e06SQMEHcJNizpe0HtgqqwHaHa?pid=Api&P=0&h=220",
       "frameMaterial": "Metal",
       "lensType": "UV400 Protection",
       "color": "Black Frame with Grey Lens",
-      "category": "eyewear",
+      "catageory": "eyewear",
       "about": [
         "Bold masculine design.",
         "UV400 protective lenses.",
@@ -992,11 +1027,11 @@
       "discount": "33% off",
       "rating": 4.5,
       "reviews": 1750,
-      "image": "/assets/armani-round.jpg",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.VAdZUe67EPvw8YJv-8bqrgHaDt?pid=Api&P=0&h=220",
       "frameMaterial": "Acetate",
       "lensType": "UV Protection",
       "color": "Tortoise Shell",
-      "category": "eyewear",
+      "catageory": "eyewear",
       "about": [
         "Trendy round frame.",
         "UV-protected lenses.",
@@ -1013,11 +1048,11 @@
       "discount": "50% off",
       "rating": 4.2,
       "reviews": 3250,
-      "image": "/assets/fastrack-bluecut.jpg",
+      "image": "https://d3995ea24pmi7m.cloudfront.net/media/catalog/product/F/T/FT1507UFP7MBLV_1_lar.jpg",
       "frameMaterial": "TR90",
       "lensType": "Blue Light Blocking",
       "color": "Matte Blue",
-      "category": "eyewear",
+      "catageory": "eyewear",
       "about": [
         "Protects eyes from digital strain.",
         "Durable TR90 frame.",
@@ -1034,11 +1069,11 @@
       "discount": "17% off",
       "rating": 4.9,
       "reviews": 720,
-      "image": "/assets/prada-cateye.jpg",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.ZpP2iM-d3Mc2KLQbRFMSqQAAAA?pid=Api&P=0&h=220",
       "frameMaterial": "Acetate",
       "lensType": "UV Protection",
       "color": "Black with Grey Gradient Lens",
-      "category": "eyewear",
+      "catageory": "eyewear",
       "about": [
         "Luxury cat-eye style.",
         "UV-protected lenses.",
@@ -1055,11 +1090,11 @@
       "discount": "18% off",
       "rating": 4.9,
       "reviews": 834,
-      "image": "/assets/gucci-oversized.jpg",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.ngxlAdnlUXzaBwE3MNmllgHaHa?pid=Api&P=0&h=220",
       "frameMaterial": "Acetate",
       "lensType": "UV Protection",
       "color": "Black with Grey Lens",
-      "category": "eyewear",
+      "catageory": "eyewear",
       "about": [
         "Oversized luxury style.",
         "UV-protective lenses.",
@@ -1076,11 +1111,11 @@
       "discount": "31% off",
       "rating": 4.4,
       "reviews": 1102,
-      "image": "/assets/tommy-square.jpg",
+      "image": "https://tommy-europe.scene7.com/is/image/TommyEurope/TH1556N560_08A_main?$b2c_updp_m_mainImage_1920$",
       "frameMaterial": "Metal",
       "lensType": "UV Protection",
       "color": "Navy Blue Frame with Grey Lens",
-      "category": "eyewear",
+      "catageory": "eyewear",
       "about": [
         "Casual square sunglasses.",
         "UV-protection lenses.",
@@ -1097,11 +1132,11 @@
       "discount": "47% off",
       "rating": 4.0,
       "reviews": 2100,
-      "image": "/assets/hm-bluecut.jpg",
+      "image": "https://robots.net/wp-content/uploads/2024/01/assessing-effectiveness-are-blue-light-blocking-glasses-worth-it-1705065216.jpg",
       "frameMaterial": "Plastic",
       "lensType": "Blue Light Blocking",
       "color": "Transparent Brown",
-      "category": "eyewear",
+      "catageory": "eyewear",
       "about": [
         "Affordable blue cut lenses.",
         "Trendy transparent frame.",
@@ -1118,11 +1153,11 @@
       "discount": "30% off",
       "rating": 4.5,
       "reviews": 1567,
-      "image": "/assets/vogue-cateye.jpg",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.8ta_0RqTHUkEX4dFs1yTcQHaD4?pid=Api&P=0&h=220",
       "frameMaterial": "Acetate",
       "lensType": "UV Protection",
       "color": "Red Frame with Brown Gradient Lens",
-      "category": "eyewear",
+      "catageory": "eyewear",
       "about": [
         "Chic cat-eye design.",
         "UV-protection lenses.",
@@ -1139,11 +1174,11 @@
       "discount": "20% off",
       "rating": 4.8,
       "reviews": 942,
-      "image": "/assets/burberry-square.jpg",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.Fsw4JyGfJz2ophKHJRYjcgHaHa?pid=Api&P=0&h=220",
       "frameMaterial": "Acetate",
       "lensType": "UV Protection",
       "color": "Tortoise Shell with Brown Lens",
-      "category": "eyewear",
+      "catageory": "eyewear",
       "about": [
         "Luxury square sunglasses.",
         "UV-protective lenses.",
